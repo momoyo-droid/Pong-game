@@ -1,7 +1,7 @@
 # pong-game
 
 I made the Lua pong game following the FreeCodeCamp tutorial.
--> To play, just run the pong.love file <-
+To play, just run the pong.love file.
 
 ![pong](https://user-images.githubusercontent.com/68512242/124197050-1236b900-daa4-11eb-8b71-ae8e3844428a.png)
 
